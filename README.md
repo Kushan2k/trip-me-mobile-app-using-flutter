@@ -1,5 +1,7 @@
 # Trip Me
 
+## (Implementations can not be published)
+
 Trip Me is a comprehensive trip, tour, activity, and hotel booking application built using Flutter and Next.js. It leverages MySQL with Prisma ORM for database management and is available on both iOS and Android platforms.
 
 ## Features
